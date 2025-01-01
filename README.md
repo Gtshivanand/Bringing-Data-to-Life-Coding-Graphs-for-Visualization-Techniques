@@ -32,7 +32,7 @@ I’d love to hear your thoughts, feedback, and suggestions! Feel free to connec
 
  *LinkedIn:* [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
 
-*Medium: https://medium.com/@shivanandnashi97/bringing-data-to-life-coding-graphs-for-visualization-techniques-06ea4873260c
+*Medium*: https://medium.com/@shivanandnashi97/bringing-data-to-life-coding-graphs-for-visualization-techniques-06ea4873260c
 
 *Email*: shivanandnashi97@gmail.com
 
